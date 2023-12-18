@@ -1,0 +1,8 @@
+{
+  "themes-urls": {
+    "rose-pine" : "https://raw.githubusercontent.com/rose-pine/termux/master/app/src/main/assets/colors/ros%C3%A9-pine.properties",
+    "tokyonight": "https://raw.githubusercontent.com/termux/termux-styling/master/app/src/main/assets/colors/tokyonight-dark.properties",
+    "solarized": "https://raw.githubusercontent.com/termux/termux-styling/master/app/src/main/assets/colors/solarized-dark.properties",
+    "gruvbox": "https://raw.githubusercontent.com/termux/termux-styling/master/app/src/main/assets/colors/gruvbox-dark.properties"
+  }
+}
