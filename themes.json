@@ -5,6 +5,6 @@
     "solarized": "https://raw.githubusercontent.com/termux/termux-styling/master/app/src/main/assets/colors/solarized-dark.properties",
     "gruvbox": "https://raw.githubusercontent.com/termux/termux-styling/master/app/src/main/assets/colors/gruvbox-dark.properties",
     "dracula": "https://raw.githubusercontent.com/dracula/termux/master/colors.properties",
-    "onedark": "https://raw.githubusercontent.com/Cabbagec/termux-ohmyzsh/master/.termux/colors/one.dark.colors"
+    "one-dark": "https://raw.githubusercontent.com/Cabbagec/termux-ohmyzsh/master/.termux/colors/one.dark.colors"
   }
 }
