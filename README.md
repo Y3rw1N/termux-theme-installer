@@ -12,3 +12,5 @@ This script was created as a shortcut
 - [rose-pine](https://github.com/rose-pine/rose-pine-theme)
 - [gruvbox](https://github.com/morhetz/gruvbox)
 - [solarized](https://ethanschoonover.com/solarized/)
+- [dracula](https://github.com/dracula/)
+- [one-dark](https://github.com/joshdick/onedark.vim)
