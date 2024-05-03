@@ -7,7 +7,7 @@ import sys
 import json
 import requests
 from shutil import copyfile
-from os import path, system
+from os import path, system, makedirs
 
 # ---------- variables ----------
 
@@ -60,6 +60,12 @@ def main():
     set_theme(scheme_name)
   else:
     print("command not found")
+
+# ---------- check if the directory exists or not ----------
+
+if not path.exists(scheme_path):
+  makedirs(scheme_path)
+
 # ---------- name main function ----------
 
 if __name__ == "__main__":
