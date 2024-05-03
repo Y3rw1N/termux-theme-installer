@@ -1,4 +1,4 @@
-#!/data/data/.termux/usr/bin/python3
+#!/data/data/.termux/files/usr/bin/env python3
 
 # version 1.0
 # this file has been created as a shortcut
